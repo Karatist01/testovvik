@@ -141,6 +141,8 @@
 # print(f"  КООРДИНАТЫ ТОЧКИ А РАВНЫ {a}, а кординаты точки б {b} равны ")
 #
 
-a = int(input())
-b = abs(a)
-print(b)
+# a = int(input())
+# b = abs(a)
+# print(b)
+a = 11
+b =7
